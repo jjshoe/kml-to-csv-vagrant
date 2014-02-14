@@ -37,6 +37,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 		chef.add_recipe "apt::default"
 
 		# Run our kml to csv recipe
-    chef.add_recipe "kml-to-csv-chef"
+    chef.add_recipe "kml-to-csv"
 	end	
 end
