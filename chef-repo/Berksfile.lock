@@ -1,0 +1,12 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.6"
+    },
+    "kml-to-csv": {
+      "locked_version": "0.0.1",
+      "git": "https://github.com/jjshoe/kml-to-csv-chef",
+      "ref": "ec4bce63b8440283e668c726b365debd33c3be46"
+    }
+  }
+}

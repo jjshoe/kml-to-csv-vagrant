@@ -1,0 +1,4 @@
+site :opscode
+
+cookbook 'apt'
+cookbook 'kml-to-csv', git: 'https://github.com/jjshoe/kml-to-csv-chef'
